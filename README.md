@@ -25,9 +25,9 @@ git clone https://github.com/Pengwei-Yang/Techniques-in-DNN.git
 
 **Dataset**
 
-* You can visit the relevant dataset on the shared Google folder:
+* You can visit the relevant dataset(.npy) on the shared Google folder:
 
-https://drive.google.com/drive/folders/19fFLlOSbM8MxRT1guYArREwyQ3L2QM5j?usp=sharing
+https://drive.google.com/drive/folders/1kZ7Ue6cm2U3L7mDsxjihGQrJ4MurTwai?usp=drive_link
 
 **Code**
 
