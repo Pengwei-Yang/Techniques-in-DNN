@@ -1,5 +1,5 @@
 # Techniques-in-DNN
-This is a demo project for common deep learning techniques.
+This is a demo project for implementing common deep learning techniques.
 
 ## Getting Started
 In this project, we manually constructed neural networks and implemented common neural network techniques such as Dropout, Weight decay, Batch normalization, and Weight initialization. They engaged in manually constructing neural networks with different architectures and optimized them through parameter tuning. Specifically, the optimization and comparison involved constructing networks based on different optimizers (SGD with Momentum, Adam), various activation functions (ReLU, Leaky ReLU, GeLU), and varying hidden layers and units.
