@@ -6,7 +6,7 @@ In this project, we manually constructed neural networks and implemented common 
 
 ## Example
 
-An example is shown below as an illustration.
+An training example is shown below as an illustration.
 ![alt text](https://github.com/Pengwei-Yang/Multimodal-in-multilabel-classification/blob/main/image.png)
 
 
