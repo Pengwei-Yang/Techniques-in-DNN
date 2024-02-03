@@ -6,7 +6,7 @@ In this project, we manually constructed neural networks and implemented common 
 
 ## Example
 
-An training example is shown below as an illustration.
+A training example is shown below as an illustration.
 ![alt text](https://github.com/Pengwei-Yang/Techniques-in-DNN/blob/main/image.png)
 
 
